@@ -1,0 +1,6 @@
+D:\Csharp\Beadando\Beadando\bin\Debug\Beadando.exe.config
+D:\Csharp\Beadando\Beadando\obj\Debug\Beadando.csprojResolveAssemblyReference.cache
+D:\Csharp\Beadando\Beadando\bin\Debug\Beadando.exe
+D:\Csharp\Beadando\Beadando\bin\Debug\Beadando.pdb
+D:\Csharp\Beadando\Beadando\obj\Debug\Beadando.exe
+D:\Csharp\Beadando\Beadando\obj\Debug\Beadando.pdb
